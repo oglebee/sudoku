@@ -1,1 +1,5 @@
 My dad made this years ago in visual basic. With very little skills of my own I am trying to make it functional again with the help of some modern tools. Wish me luck.
+
+Update: VB6 was a poor choice. Will need to do VB6->VB.NET. Daunting with 4500 lines in a .FRM.
+
+I added some python code, mostly stolen from online. It only solves the puzzle. 
